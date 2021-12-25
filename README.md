@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HammerofOlympia
+- 👋 Hi, I’m @Daniel Wolfe
 - 👀 I’m interested in ...learning javascript and react
 - 🌱 I’m currently learning ...Javascript
 - 💞️ I’m looking to collaborate on ...
