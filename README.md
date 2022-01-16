@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Daniel Wolfe
-- 👀 I’m interested in ...learning javascript and react
-- 🌱 I’m currently learning ...Javascript
+- 👋 Hi, I’m @Daniel Wolfe im a self teaching front end developer
+- 👀 I’m interested in ...learning javascript, react and some CSS frameworks.
+- 🌱 I’m currently learning ...Javascript,CSS and HTML.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
